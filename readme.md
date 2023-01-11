@@ -6,6 +6,33 @@ as it features code samples for each concept as it is introduced.
 
 The Codes are commited as the topic is learnt and implementt.
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/BANZOM/JAVASCRIPT-TUTORIAL.git
+```
+
+Go to the project directory
+
+```bash
+  cd JAVASCRIPT-TUTORIAL/
+```
+
+Install dependencies (NodeJs)
+
+```bash
+  sudo apt install nodejs
+```
+
+Run the js file
+
+```bash
+  node filename.js
+```
+
+
 ## Acknowledgements
 
  - [Javascript Playlist: CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
