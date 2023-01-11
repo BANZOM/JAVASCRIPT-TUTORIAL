@@ -11,3 +11,11 @@ The Codes are commited as the topic is learnt and implementt.
  - [Javascript Playlist: CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
  - [Javascript & react.js: DevTown](https://www.youtube.com/playlist?list=PL7zl8TDRnbukayCPfUWZyKf-VYgxdlC_9)
  - [JavaScript Programming - Full Course: freeCodeCamp.org](https://www.youtube.com/watch?v=jS4aFq5-91M)
+
+## Contributing
+
+Contributions are always welcome!
+Push Your Codes, Optimizations and fixes.
+
+Please adhere to this project's `code of conduct`.
+
