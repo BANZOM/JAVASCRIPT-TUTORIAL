@@ -33,6 +33,13 @@ Run the js file
 ```
 
 
+## Documentation
+
+[By Mozilla Developers](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+
+[By W3SCHOOLS](https://www.w3schools.com/jsrEF/default.asp)
+
+
 ## Acknowledgements
 
  - [Javascript Playlist: CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
