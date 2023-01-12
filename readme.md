@@ -31,7 +31,13 @@ Run the js file
 ```bash
   node filename.js
 ```
+## Run on Browsers
 
+  Inspect Page >> Console 
+  
+  or
+  
+  Inspect Page >> Sources >> Snippets >> Create a .js file and code
 
 ## Documentation
 
