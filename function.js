@@ -1,6 +1,8 @@
-alert("This is an alert"); // notifications
+function greet(name)
+{
+    return 'Hello, ' + name + '!';
+}
 
-prompt("This is a prompt, Please give input"); // for taking input
+var name = prompt("Enter your name: ");
 
-var b = true;
-console.log( typeof(b));
+alert(greet(name));
