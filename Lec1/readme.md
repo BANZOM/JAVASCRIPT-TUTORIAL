@@ -46,6 +46,17 @@ You can view the output of JavaScript code on the browser by using it in an HTML
 
 In this example, the JavaScript code sets the content of the `output` paragraph element to "Hello, World!".
 
+## Keywords in JavaScript:
+1. **var**: The `var` keyword is used to declare variables in JavaScript.
+2. **let**: The `let` keyword is used to declare block-scoped variables in JavaScript. 
+3. **const**: The `const` keyword is used to declare constants in JavaScript. 
+4. **function**: The `function` keyword is used to define functions in JavaScript.
+5. **return**: The `return` keyword is used to return a value from a function in JavaScript.
+6. **if**: The `if` keyword is used to execute a block of code if a condition is true in JavaScript.
+7. **switch**: The `switch` keyword is used to execute a block of code based on different cases in JavaScript.
+8. **for**: The `for` keyword is used to create a loop that executes a block of code a specified number of times in JavaScript.
+9. **try**: The `try` keyword is used to start a block of code that will be tested for errors in JavaScript.
+
 
 ### My Notes:
 - In JavaScript, the window object is the global scope object. This means that variables, properties, and methods by default belong to the window object. This also means that specifying the window keyword is optional:
