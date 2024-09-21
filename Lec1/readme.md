@@ -45,3 +45,7 @@ You can view the output of JavaScript code on the browser by using it in an HTML
 ```
 
 In this example, the JavaScript code sets the content of the `output` paragraph element to "Hello, World!".
+
+
+### My Notes:
+- In JavaScript, the window object is the global scope object. This means that variables, properties, and methods by default belong to the window object. This also means that specifying the window keyword is optional:
