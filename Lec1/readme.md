@@ -61,3 +61,5 @@ In this example, the JavaScript code sets the content of the `output` paragraph 
 ### My Notes:
 - In JavaScript, the window object is the global scope object. This means that variables, properties, and methods by default belong to the window object. This also means that specifying the window keyword is optional:
 - For debugging purposes, you can call the console.log() method in the browser to display data.
+- The var keyword should only be used in code written for older browsers.
+- You cannot re-declare a variable declared with let or const.
